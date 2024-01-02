@@ -1,0 +1,4 @@
+#Wed Nov 29 16:47:12 HKT 2023
+base.0=/home/sony/Downloads/New Folder/Flutter-ticketApp-master/flutter_ticketapp_master/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
